@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[Build Status][https://dev.azure.com/jdevopsorg/Parts%20Unlimited/_apis/build/status/Banesword.calculator?branchName=master]
+![Build Status][https://dev.azure.com/jdevopsorg/Parts%20Unlimited/_apis/build/status/Banesword.calculator?branchName=master]
 
 [![Build Status](https://dev.azure.com/jdevopsorg/Parts%20Unlimited/_apis/build/status/Banesword.calculator?branchName=master)](https://dev.azure.com/jdevopsorg/Parts%20Unlimited/_build/latest?definitionId=4&branchName=master)
 
